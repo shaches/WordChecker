@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.31.2)
+cmake_minimum_required(VERSION 3.29)
 project(WordChecker 
 	VERSION 0.0.1
 	DESCRIPTION "Checks for repeated words in given text."
