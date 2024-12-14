@@ -1,0 +1,4 @@
+// the configured options and settings for Tutorial
+#define WordChecker_VERSION_MAJOR @WordChecker_VERSION_MAJOR@
+#define WordChecker_VERSION_MINOR @WordChecker_VERSION_MINOR@
+#define WordChecker_VERSION_PATCH @WordChecker_VERSION_PATCH@
